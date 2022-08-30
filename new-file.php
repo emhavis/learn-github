@@ -1,3 +1,5 @@
 <html>
-   <?php echo "text"; ?>
+   <?php echo "text"; 
+	 echo "text2";
+  ?>
 </html>
